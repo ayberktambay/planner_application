@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "945207584424",
+    "project_id": "planner-76e1b",
+    "storage_bucket": "planner-76e1b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945207584424:android:a381affdfe49a09c50049d",
+        "android_client_info": {
+          "package_name": "com.ayberk.planner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqkECLPpsHBvwhcLHukU0Womb3aNomPFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
